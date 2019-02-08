@@ -1,6 +1,6 @@
 # Recipebox
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.0.
+This project was created as part of my studies of the Udemy course [Angular 7 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/).
 
 ## Development server
 
