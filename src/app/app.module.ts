@@ -5,13 +5,15 @@ import { AppComponent } from './app.component';
 import { HeaderComponent } from './header/header.component';
 import { ShoppingListComponent } from './shopping-list/shopping-list.component';
 import { RecipeBookComponent } from './recipe-book/recipe-book.component';
+import { RecipesComponent } from './recipes/recipes.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HeaderComponent,
     ShoppingListComponent,
-    RecipeBookComponent
+    RecipeBookComponent,
+    RecipesComponent
   ],
   imports: [
     BrowserModule
